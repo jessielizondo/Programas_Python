@@ -1,0 +1,16 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES
+==================================
+Autor: Jessica Elizondo
+Fecha: 2025-01-21
+
+Resultados:
+20:05 Creacion de Log
+
+
+20:38 Creacion de pares.py
+20:49 Creacion de histograma.py y explicaciondehistograma.py
+21:39 Modificación de histograma.py
+0:15 Creacion de res_estadistico.py
+0:15 Creacion de primos.py
+0:15 Creacion de saludo_computina.py
+0:15 Creacion de saludo_computina_2.py

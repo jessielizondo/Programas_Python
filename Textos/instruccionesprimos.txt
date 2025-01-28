@@ -1,0 +1,11 @@
+En la carpeta Scripts, cree un programa llamado primos.py que reciba como input desde la terminal un número entero positivo, y devuelva como resultado un texto que indique si dicho número es o no primo.
+
+Tenga en consideración lo siguiente:
+
+Si se entrega como input un número decimal el programa debe arrojar un error.
+
+Si se entrega como input un número que sea 0 o negativo debe imprimir un mensaje que indique que dicho número no es válido.
+
+Si se entrega un número primo debe indicar en un mensaje este hecho.
+
+Si se entrega un número compuesto (no primo) debe indicar en un mensaje este hecho, así como también mostrar una descomposición de dos divisores (i.e. si se da como input el 4, el mensaje debe señalar que “2*2 = 4”).

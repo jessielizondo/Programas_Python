@@ -1,0 +1,13 @@
+
+Cree un programa que una vez ejecutado en la console se le envíe como opcion el saludo "Hola".
+
+El programa debe responder:
+
+* Con 1/2 de probabilidad la respuesta "Hola, ¿cómo estás?"
+
+* Con probabilidad 1/4 la respuesta "Hola, me llamo Computina"
+
+* Con probabilidad 1/4 la respuesta "Háblale a la mano"
+
+* Si no se pone este texto opcional debería responder "Primero, saluda!!"
+
